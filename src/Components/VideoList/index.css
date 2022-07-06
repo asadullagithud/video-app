@@ -1,0 +1,15 @@
+.items{
+    display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: 5px;
+margin-bottom: 5px;
+width: 95%;
+}
+.title{
+    font-family: "Roboto";
+    font-size: 15px;
+}
